@@ -12,6 +12,11 @@ public class test1 {
 		System.out.println("test 5 by september");
 		System.out.println("test 6 by september");
 		
+		
+		
+		System.out.println("added new on test 1");
+
+		
 
 	}
 
