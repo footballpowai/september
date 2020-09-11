@@ -12,4 +12,9 @@ public class config {
 	String url8 = "local3000";
 	String url9 = "local3000";
 	String url10 = "local3000";
+	String url16 = "local3000"; //sanjay
+	String url17 = "local3000"; //sanjay
+	String url18 = "local3000"; //sanjay
+	String url19 = "local3000"; //sanjay
+	String url20 = "local3000"; //sanjay
 }
