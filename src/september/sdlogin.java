@@ -30,5 +30,19 @@ public class sdlogin {
 	}
 
 	
+	public void visitDone() {
+			
+			System.out.println("visitDone mark it as done"); //added by sanja
+
+		}
+
+		
+	public void assignViewer() {
+			
+			System.out.println("assignViewer agent"); //added by sanja
+
+		}
+
+		
 
 }
