@@ -36,10 +36,24 @@ public class sdlogin {
 
 		}
 
-		
+	
 	public void assignViewer() {
 			
 			System.out.println("assignViewer agent"); //added by sanja
+
+		}
+
+	
+	public void assignclosing() {
+			
+			System.out.println("assignclosing agent"); //added by sanju buoy
+
+		}
+
+	
+	public void editleaddetails() {
+			
+			System.out.println("editleaddetails agent"); //added by sanja buoy
 
 		}
 
