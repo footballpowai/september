@@ -56,7 +56,13 @@ public class sdlogin {
 			System.out.println("editleaddetails agent"); //added by sanja buoy
 
 		}
+		
 
+	public void addedassertionsToday() {
+			
+			System.out.println("addedassertionsToday agent"); //added by chibaba vishal 22
+
+		}
 		
 
 }
